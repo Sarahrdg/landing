@@ -1,0 +1,24 @@
+.banner {
+  background-image: url('/landing/images/lille.jpg');
+  background-size: cover;
+  color: white;
+  padding: 200px 0;
+  display: flex;
+  justify-content: center;
+  text-align:center;
+}
+
+.banner-content h1 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.banner-content p {
+  font-size: 30px;
+  color: #FBAF00;
+  background-color: white;
+  opacity: 0.9;
+  width: auto;
+  height: auto;
+}
